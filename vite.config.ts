@@ -11,41 +11,13 @@ export default defineConfig({
     VitePWA({
       registerType:"autoUpdate",
       manifest:{
-        name: "Rishi Bakshi's Portfolio",
-        short_name: "Rishi's Portfolio",
+        name: "Harshith Basa's Portfolio",
+        short_name: "Harshith's",
         theme_color: "#000000",
         background_color: "#000000",
         display: "standalone",
         scope: "/portfolio",
-        start_url: "/portfolio",
-        icons: [
-          {
-            src: "maskable.png",
-            sizes: "192x192",
-            type: "image/png",
-            purpose: "any maskable",
-          },
-          {
-            src: "logo192.png",
-            sizes: "192x192",
-            type: "image/png",
-          },
-          {
-            src: "logo256.png",
-            sizes: "256x256",
-            type: "image/png",
-          },
-          {
-            src: "logo384.png",
-            sizes: "384x384",
-            type: "image/png",
-          },
-          {
-            src: "logo512.png",
-            sizes: "512x512",
-            type: "image/png",
-          },
-        ],
+        start_url: "/portfolio"
       }
     })
   ],
