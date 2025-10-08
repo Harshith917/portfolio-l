@@ -1,2 +1,2 @@
-# Rishi Bakshi's Portfolio
-Full stack developer | Software Engineer | DSA | Problem Solving
+# Harshith Basa's Portfolio
+Full stack developer | Frontend Developer | Problem Solving

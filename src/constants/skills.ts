@@ -1,8 +1,9 @@
 import { ISkill } from "../interfaces/skill.interface";
 
 export const SKILLS:Array<ISkill> = [
-    {"name":"Frontend","content":["Html","Css","Javascript","Typescript","React.js","Next.js14","Tailwind","Framer-motion",]},
-    {"name":"Backend","content":[ "Node.js", "Express.js", "Socket.io", "OAuth","REST api","Passport.js"]},
+    {"name":"Frontend","content":["Html","Css","Javascript","Typescript","React.js","Next.js14","Tailwind","shadcn","reactbits"]},
+    {"name":"Backend","content":[ "Node.js", "Express.js","RESTApi","Spring","Hibernate","OAuth"]},
     {"name":"Database","content":[ "MongoDB", "PostgreSQL"]},
-    {"name":"DevOps","content":[ "Docker", "AWS","Nginx"]},
+    {"name":"Tools","content":[ "VSCode","Postman","Eclipse","Github","Figma"]},
+    
 ]

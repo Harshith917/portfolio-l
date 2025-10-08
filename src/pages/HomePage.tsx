@@ -68,7 +68,7 @@ export const HomePage = () => {
             <div className="flex flex-col">
               <h5 className="font-semibold text-white">Bachelor of Technology in Computer Science<span className="ml-5">2021 - 2025</span></h5>
               <p className="text-gray-400 text-sm">Sreyas Institute of Engineering and Technology</p>
-              <p className="text-gray-300 text-sm">Focused on software development, data structures, algorithms, and web technologies.</p>
+              <p className="text-gray-300 text-sm">Focused on software development and web technologies.</p>
             </div>
 
             {/* Example 2 */}
