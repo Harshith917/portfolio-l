@@ -1,6 +1,7 @@
 import { Github } from "../ui/icons/Github"
 import { Linkedin } from "../ui/icons/Linkedin"
 import { Twitter } from "../ui/icons/Twitter"
+import { VercelIcon } from "../ui/icons/VercelIcon"
 
 export const Socials = () => {
   return (
@@ -14,6 +15,9 @@ export const Socials = () => {
         </a>
         <a target="_blank" href="">
           <Twitter size={25}/>
+        </a>
+        <a target="_blank" href="https://vercel.com/harshith917s-projects">
+          <VercelIcon size={25}/>
         </a>
     </div>
   )

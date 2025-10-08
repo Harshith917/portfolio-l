@@ -18,6 +18,15 @@ export const ProjectList = () => {
             liveLink="https://authentication-silk-chi.vercel.app/"
             techStack={["Node.js","Express","MongoDB","React","shadcn"]}
         />
+
+        <ProjectCard
+            
+            desc={<p>This is the frontend of a Hotel Booking Application built using React. The application provides a clean and professional user interface where users can browse hotels, explore room details, and experience a smooth booking flow (UI-only). The backend and database integration (MongoDB, Express, Node.js) are yet to be implemented.</p>}
+            title="Hotel Booking"
+            githubLink="https://github.com/Harshith917/Hotel_Booking1"
+            liveLink="https://hotel-booking1-frontend.vercel.app/"
+            techStack={["React","React-Router","TailwindCSS"]}
+        />
     </div>
   )
 }

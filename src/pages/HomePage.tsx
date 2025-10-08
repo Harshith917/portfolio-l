@@ -78,7 +78,7 @@ export const HomePage = () => {
 
             </div>
 
-            {/* Example 3 (optional training or certifications) */}
+            {/* Example 3 */}
             <div className="flex flex-col">
               <h5 className="font-semibold text-white">School<span className="ml-5">2018-19</span></h5>
               <p className="text-gray-400 text-sm">Wisdom Spaes School </p>
